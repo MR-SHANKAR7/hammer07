@@ -22,6 +22,7 @@
   
   <code>python hammer07.py -s [ip Address] -t 135</code>
   
+  
    -s : 
   
   عنوان ابي لمزود لخدمة
@@ -34,13 +35,16 @@
    
    
 <code> python hammer07.py -s 123.45.67.89 -t 135</code>
+
 ### 
 طريقة استخراج عنوان  الايبي :
 
 
 نستخرج عنوان لايبي لموقع كوكل
 
+
 www.google.com
+
 داخل terminal ندخل
 
 ping www.google.com 
