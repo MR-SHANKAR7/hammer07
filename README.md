@@ -16,7 +16,7 @@
   
   <code>apt install dnsutils</code>
   
-  <code>git clone https://github.com/MR-SHANKAR7/hammer07</code>
+  <code>git clone https://github.com/MR-SHANKAR7/hammer07.git </code>
   ### تشغيل ادات 
   <code>cd hammer07</code>
   
