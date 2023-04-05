@@ -1,7 +1,6 @@
 ###HAMMER 07
 
-![Image 1]([https://raw.githubusercontent.com/mr-sami-x/admin-ye/main/PicsArt_04-05-03.17.28~2.png](https://help.mikrotik.com/docs/download/attachments/28606504/Untitled%20Diagram%20%281%29.jpg?version=1&modificationDate=1590666013808&api=v2))
-
+![Image 1](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVCKHIS-h6iX4kqK1vUn-XToFvEoGZYZpOzw&usqp=CAU)
  تعد هجمات حرمان (رفض الخدمة) من أكثر الهجمات شيوعًا على الإنترنت ، وتهدف إلى إعاقة خدمة ما عن طريق إرسال مجموعة الطلبات غير الصحيحة أو لخادم الويب الذي يستضيف الخدمة. تؤدي هذه النوبات إلى الفقر الذي يؤدي إلى ارتفاعه.
  
  ### install for termux  & kali linux !
