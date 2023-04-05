@@ -1,6 +1,6 @@
 #HAMMER 07
 
-![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhelp.mikrotik.com%2Fdocs%2Fpages%2Fviewpage.action%3FpageId%3D28606504&psig=AOvVaw3tP-Y9XnxF4LfVDiFT9SoJ&ust=1680820780492000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPiY977nk_4CFQAAAAAdAAAAABAR)
+![image]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fhelp.mikrotik.com%2Fdocs%2Fpages%2Fviewpage.action%3FpageId%3D28606504&psig=AOvVaw3tP-Y9XnxF4LfVDiFT9SoJ&ust=1680820780492000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPiY977nk_4CFQAAAAAdAAAAABAR](https://help.mikrotik.com/docs/download/attachments/28606504/Untitled%20Diagram%20%281%29.jpg?version=1&modificationDate=1590666013808&api=v2))
 
  تعد هجمات حرمان (رفض الخدمة) من أكثر الهجمات شيوعًا على الإنترنت ، وتهدف إلى إعاقة خدمة ما عن طريق إرسال مجموعة الطلبات غير الصحيحة أو لخادم الويب الذي يستضيف الخدمة. تؤدي هذه النوبات إلى الفقر الذي يؤدي إلى ارتفاعه.
  
