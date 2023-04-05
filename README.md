@@ -1,6 +1,6 @@
 ###  HAMMER 07
 
-![Image 1](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVCKHIS-h6iX4kqK1vUn-XToFvEoGZYZpOzw&usqp=CAU)
+![Image 1](https://pasteboard.co/l9ihP8wpSZXV.jpg)
 
  تعد هجمات حرمان (رفض الخدمة) من أكثر الهجمات شيوعًا على الإنترنت ، وتهدف إلى إعاقة خدمة ما عن طريق إرسال مجموعة الطلبات غير الصحيحة أو لخادم الويب الذي يستضيف الخدمة. تؤدي هذه النوبات إلى الفقر الذي يؤدي إلى ارتفاعه.
  
